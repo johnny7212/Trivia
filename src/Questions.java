@@ -1,4 +1,6 @@
 public class Questions {
+    //MAKE NEW ARRAY FOR THE POINTS PER QUESTION
+
     public static String [] questions = {
             "What game did mario first appear in?(2)" +
                     "\n\t a." +
