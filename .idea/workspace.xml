@@ -4,17 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9e55d12c-0cce-4927-a757-0a595be44cd3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trivia.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Questions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TriviaDriver.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/TriviaGame.java" afterDir="false" />
+    <list default="true" id="9e55d12c-0cce-4927-a757-0a595be44cd3" name="Changes" comment="Bingus">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Questions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Questions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TriviaDriver.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TriviaDriver.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TriviaGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TriviaGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +43,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.TriviaGame">
+    <configuration name="Questions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Questions" />
+      <module name="Trivia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TriviaDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="TriviaDriver" />
       <module name="Trivia" />
@@ -57,8 +58,17 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TriviaGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TriviaGame" />
+      <module name="Trivia" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.TriviaGame" />
+        <item itemvalue="Application.Questions" />
         <item itemvalue="Application.TriviaDriver" />
       </list>
     </recent_temporary>
@@ -72,6 +82,14 @@
       <option name="presentableId" value="Default" />
       <updated>1670880544890</updated>
     </task>
+    <task id="LOCAL-00001" summary="Bingus">
+      <created>1670903716873</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1670903716875</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,5 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Bingus" />
+    <option name="LAST_COMMIT_MESSAGE" value="Bingus" />
   </component>
 </project>
