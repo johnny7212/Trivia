@@ -1,5 +1,5 @@
 public class TriviaGame {
-    private static int pointTotal = 36;
+    private static int pointTotal = 50;
     public static int userTotal = 0;
 
     public static void trivia() {
@@ -8,11 +8,12 @@ public class TriviaGame {
             String answer = TriviaDriver.scanner.nextLine();
             if (answer.equals(Questions.answers[i])){
                 System.out.println("Correct!");
-                userTotal++;
+
+                userTotal += Questions.answerPoints[i];
             } else {
                 System.out.println("Incorrect!");
             }
-            System.out.println("Current Score: " + userTotal);
+            System.out.println("Current Points: " + userTotal);
         }
     }
 

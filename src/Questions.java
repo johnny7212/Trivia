@@ -2,17 +2,17 @@ public class Questions {
     //MAKE NEW ARRAY FOR THE POINTS PER QUESTION
 
     public static String [] questions = {
-            "What game did mario first appear in?(2)" +
+            "What game did mario first appear in?(5)" +
                     "\n\t a." +
                     "\n\t b." +
                     "\n\t c." +
                     "\n\t d.",
-            "What year is the first game believed to have been created(3)" +
+            "What year is the first game believed to have been created(5)" +
                     "\n\t a." +
                     "\n\t b." +
                     "\n\t c." +
                     "\n\t d.",
-            "What is the best selling console that is said to have sold 155 million worldwide?(2)" +
+            "What is the best selling console that is said to have sold 155 million worldwide?(4)" +
                     "\n\t a." +
                     "\n\t b." +
                     "\n\t c." +
@@ -27,12 +27,12 @@ public class Questions {
                     "\n\t b." +
                     "\n\t c." +
                     "\n\t d.",
-            "What is the highest selling X-box game?(2)" +
+            "What is the highest selling X-box game?(3)" +
                     "\n\t a." +
                     "\n\t b." +
                     "\n\t c." +
                     "\n\t d.",
-            "What year was the first X-box console released?(2)" +
+            "What year was the first X-box console released?(3)" +
                     "\n\t a." +
                     "\n\t b." +
                     "\n\t c." +
@@ -47,21 +47,25 @@ public class Questions {
                     "\n\t b." +
                     "\n\t c." +
                     "\n\t d.",
-            "What’s the most expensive video game ever produced?(4)" +
+            "What’s the most expensive video game ever produced ($1000)?(4)" +
                     "\n\t a." +
                     "\n\t b." +
                     "\n\t c." +
                     "\n\t d.",
-            "What was the last Sega console?(3)" +
+            "What was the last Sega console?(5)" +
                     "\n\t a." +
                     "\n\t b." +
                     "\n\t c." +
                     "\n\t d.",
-            "Who is Jack Mitchell’s best friend in “Call of Duty: Advanced Warfare?”(5)" +
+            "Who is Jack Mitchell’s best friend in “Call of Duty: Advanced Warfare?”(8)" +
                     "\n\t a." +
                     "\n\t b." +
                     "\n\t c." +
                     "\n\t d.",
+    };
+
+    public static int [] answerPoints = {
+        5, 5, 4, 5, 3, 3, 3, 3, 2, 4, 5, 8
     };
 
     public static String [] answers = {

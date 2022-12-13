@@ -9,7 +9,7 @@ public class TriviaDriver {
                 "\nWhat is your name?");
         String name = scanner.nextLine();
         System.out.println("Hello " + name + "! Lets begin. \n\n");
-
+        TriviaGame.trivia();
 
     }
 }
